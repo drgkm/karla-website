@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=League+Gothic&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href = "#home">home</a></li>
+        <li><a href = "#work">work</a></li>
+        <li><a href = "#about">about</a></li>
+        <li><a href = "#">resume</a></li>
+      </ul>
+    </nav>
+    
+    <div id = "home" class = "home">
+      <h1>Daisy Gonzalez</h1>
+    </div>
+    <div id = "work" class = "work">
+      <h2 class ="header">work< /h2>
+      <a href="#" class="project"><img class="project-image"
+    src="https://ibb.co/Tv4Q0j4" alt="project"></a>
+      <a href="#" class="project"><img class="project-image"
+    src="https://ibb.co/Tv4Q0j4" alt="project"></a>
+      <a href="#" class="project"><img class="project-image"
+    src="https://ibb.co/Tv4Q0j4" alt="project"></a>
+      <h4>progrmmer + developer </h4>
+    </div>
+     
+    <div id = "about" class = "about">
+      <h2 class = "header">about</h2>
+      <p>My name is Daisy and I am a designers/developer.</p>
+      <a href="h" class"buttin resume-button" target="_blank">view my resume</a>
+        </div>
+        
+        <footer><p>Created for CSGirls></p></footer>
+  </body>
+</html>
